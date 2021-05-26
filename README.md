@@ -1,9 +1,9 @@
 ## Project Autoval
 A CLI Tool for automatically evaluating student code submissions
 
-## Dependencies
+# Dependencies
 
-# Docker:
+## Docker:
 
 Check out the following guides on for installation instructions on Ubuntu, MacOS and Windows:
 
@@ -14,19 +14,19 @@ MacOS: https://docs.docker.com/docker-for-mac/
 Windows: https://docs.docker.com/docker-for-windows/
 
 
-# KLEE:
+## KLEE:
 
 KLEE can be installed by many ways. For an extensive guide visit https://klee.github.io/getting-started/
 
 We recommend using the KLEE images for Docker. For more info visit https://klee.github.io/docker/
 
 
-# Python3:
+## Python3:
 
 Installing Python on your system is easy. For instructions visit https://www.python.org/downloads/ and choose your respective OS for a detailed guide
 
 
-## Execution Instructions
+# Execution Instructions
 
 1. Add the golden solution to the "golden_solution" directory
 2. Add the student solutions to the "student_solutions" directory
@@ -36,7 +36,7 @@ Installing Python on your system is easy. For instructions visit https://www.pyt
 6. Once the batch process finishes, hurrah! Now you can check the results compiled in the generated results.csv file.
 
 
-## Input Configuration
+# Input Configuration
 
 Each line in the config.txt contains information about each input parameter (in strict order as per the order of functional arguments in the golden solution)
 
