@@ -46,6 +46,6 @@ Any input restrictions can be added following that, each separated by a semicolo
 
 For example,
 
-If the variable name is var and the datatype in integer, and it should be in the range (0,100], then the corresponding line in the config.txt file should be the following:
+If the variable name is "var" and the datatype in integer, and it should be in the range (0,100], then the corresponding line in the config.txt file should be the following:
 
 int var;var>0;var<=100
