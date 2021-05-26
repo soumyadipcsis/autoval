@@ -23,7 +23,7 @@ We recommend using the KLEE images for Docker. For more info visit https://klee.
 
 ## Python3:
 
-Installing Python on your system is easy. For instructions visit https://www.python.org/downloads/ and choose your respective OS for a detailed guide
+Installing Python3 on your system is easy. For instructions visit https://www.python.org/downloads/ and choose your respective OS for a detailed guide
 
 
 # Execution Instructions
