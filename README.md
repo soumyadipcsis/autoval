@@ -5,7 +5,7 @@ A CLI Tool for automatically evaluating student code submissions
 
 ## Docker:
 
-Check out the following guides on for installation instructions on Ubuntu, MacOS and Windows:
+Check out the following guides for installation instructions on Ubuntu, MacOS and Windows:
 
 Ubuntu: https://docs.docker.com/engine/install/ubuntu/
 
